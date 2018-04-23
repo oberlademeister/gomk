@@ -1,0 +1,2 @@
+# gomk
+OLDMs Go Makefile
